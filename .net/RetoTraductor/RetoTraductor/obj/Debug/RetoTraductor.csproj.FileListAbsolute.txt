@@ -1,0 +1,8 @@
+C:\Users\ajsalasa\source\repos\Laboratorio1\.net\RetoTraductor\RetoTraductor\bin\Debug\RetoTraductor.dll
+C:\Users\ajsalasa\source\repos\Laboratorio1\.net\RetoTraductor\RetoTraductor\bin\Debug\RetoTraductor.pdb
+C:\Users\ajsalasa\source\repos\Laboratorio1\.net\RetoTraductor\RetoTraductor\obj\Debug\RetoTraductor.csproj.AssemblyReference.cache
+C:\Users\ajsalasa\source\repos\Laboratorio1\.net\RetoTraductor\RetoTraductor\obj\Debug\RetoTraductor.UserControl1.resources
+C:\Users\ajsalasa\source\repos\Laboratorio1\.net\RetoTraductor\RetoTraductor\obj\Debug\RetoTraductor.csproj.GenerateResource.cache
+C:\Users\ajsalasa\source\repos\Laboratorio1\.net\RetoTraductor\RetoTraductor\obj\Debug\RetoTraductor.csproj.CoreCompileInputs.cache
+C:\Users\ajsalasa\source\repos\Laboratorio1\.net\RetoTraductor\RetoTraductor\obj\Debug\RetoTraductor.dll
+C:\Users\ajsalasa\source\repos\Laboratorio1\.net\RetoTraductor\RetoTraductor\obj\Debug\RetoTraductor.pdb
